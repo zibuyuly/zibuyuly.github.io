@@ -3,11 +3,11 @@
   <title>子不语不吃鱼</title>
   
   
-  <link href="https://zibuyuly.github.io/project/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="https://zibuyuly.github.io/project/"/>
+  <link href="http://example.com/"/>
   <updated>2023-03-11T17:30:02.367Z</updated>
-  <id>https://zibuyuly.github.io/project/</id>
+  <id>http://example.com/</id>
   
   <author>
     <name>子不语不吃鱼</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://zibuyuly.github.io/project/undefined/4a17b156.html"/>
-    <id>https://zibuyuly.github.io/project/undefined/4a17b156.html</id>
+    <link href="http://example.com/undefined/4a17b156.html"/>
+    <id>http://example.com/undefined/4a17b156.html</id>
     <published>2023-03-11T12:22:58.616Z</published>
     <updated>2023-03-11T17:30:02.367Z</updated>
     
