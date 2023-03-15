@@ -188,3 +188,8 @@ window.addEventListener('load', () => {
     searchClickFn()
   })
 })
+
+
+const searchClickFn = () => {
+    document.querySelector('#search-button > .search').addEventListener('click', openSearch)
+}
